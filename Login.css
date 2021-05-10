@@ -10,8 +10,10 @@
 }
 
 .u-section-1 .u-btn-1 {
+  border-style: solid;
+  text-transform: uppercase;
   text-decoration: underline !important;
-  padding: 0;
+  background-image: none;
 }
 
 @media (max-width: 1199px) {
